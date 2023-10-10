@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+### About me
+
+### Tech Stack
+
+## Manual testing
+
+
+
+## Test automation
+#Test scenarios, repositories, reports, bugs:
+
+
+### Experience
+
+
+### Certificates
+
+
 <!--
 **izabelagorz/izabelagorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
