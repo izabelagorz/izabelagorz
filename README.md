@@ -24,7 +24,7 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 ### Experience
 
-[LinkedIn](https://www.linkedin.com/in/izabelagorz/)
+Visit my ➔ [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
 
 ### Certificates
 
