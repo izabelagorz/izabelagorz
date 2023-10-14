@@ -13,15 +13,9 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 
 ## Test automation
- ⚫️  <br>
- ⚫️ 
- ⚫️
- ⚫️
- ⚫️
- ⚫️
+ ⚫️  [Scouts Panel application - Python + Selenium Webdriver](https://github.com/izabelagorz/test_automation_challenge_portfolio_Izabela.git)
+ ⚫️  [Scouts Panel application - Python + Robot framework](https://github.com/izabelagorz/panelscout_robotframework.git)
  
-
-
 ### Experience
 
 Visit my ➔ [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
