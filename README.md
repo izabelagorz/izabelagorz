@@ -5,8 +5,15 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 ## Manual testing
 
+📄
+[Test cases](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit#gid=0)
+
+🪳
+[Bug report](https://docs.google.com/document/d/1sO9JV0Qvad12yiDPhfAgDWd7PhxmwAdM-mNU8G-1tuw/edit#heading=h.us217d5pm0sm)
+
+
 ## Test automation
- ⚫️ Test scenarios, repositories, reports, bugs:
+ ⚫️  <br>
  ⚫️ 
  ⚫️
  ⚫️
@@ -17,7 +24,9 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 ### Experience
 
-###Certificates
+
+
+### Certificates
 
 👉*Certified Tester Foundation Level ISTQB ®* No19374/CTFL/2022
 
