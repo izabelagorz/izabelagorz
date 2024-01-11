@@ -2,6 +2,8 @@
 As a software tester with extensive experience in graphic design, I have a unique perspective on design and user experience. <br> Highly motivated and positively oriented towards new challenges, I am continually seeking opportunities for self-development.
 ### Tech Stack
 
+https://icons8.com/icon/20909/html-5
+
 
 ## Test cases
 📄 [Test cases](https://docs.google.com/spreadsheets/d/1Iq_F6hXlA2tKq5HCmH7s8vUKN8b5IEJKKBOOaXk8rQQ/edit?usp=sharing)
