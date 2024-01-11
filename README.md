@@ -2,8 +2,9 @@
 As a software tester with extensive experience in graphic design, I have a unique perspective on design and user experience. <br> Highly motivated and positively oriented towards new challenges, I am continually seeking opportunities for self-development.
 ### Tech Stack
 
-📄
-## [Test cases]([https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit#gid=0](https://docs.google.com/spreadsheets/d/1Iq_F6hXlA2tKq5HCmH7s8vUKN8b5IEJKKBOOaXk8rQQ/edit?usp=sharing))
+
+## Test cases
+📄 [Test cases]((https://docs.google.com/spreadsheets/d/1Iq_F6hXlA2tKq5HCmH7s8vUKN8b5IEJKKBOOaXk8rQQ/edit?usp=sharing))
 
 ## Test automation
  ⚫️  [Scouts Panel application - JavaScript + Cypress](https://github.com/izabelagorz/MyCypressProject.git)<br>
