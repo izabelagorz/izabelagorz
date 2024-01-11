@@ -4,7 +4,7 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 
 ## Test cases
-📄 [Test cases]((https://docs.google.com/spreadsheets/d/1Iq_F6hXlA2tKq5HCmH7s8vUKN8b5IEJKKBOOaXk8rQQ/edit?usp=sharing))
+📄 [Test cases](https://docs.google.com/spreadsheets/d/1Iq_F6hXlA2tKq5HCmH7s8vUKN8b5IEJKKBOOaXk8rQQ/edit?usp=sharing)
 
 ## Test automation
  ⚫️  [Scouts Panel application - JavaScript + Cypress](https://github.com/izabelagorz/MyCypressProject.git)<br>
