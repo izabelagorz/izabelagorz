@@ -2,7 +2,7 @@
 As a software tester with extensive experience in graphic design, I have a unique perspective on design and user experience. <br> Highly motivated and positively oriented towards new challenges, I am continually seeking opportunities for self-development.
 ### Tech Stack
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
 
 
 
