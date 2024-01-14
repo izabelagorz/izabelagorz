@@ -11,11 +11,11 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 📋 [Test report](https://github.com/izabelagorz/MyCypressProject/blob/17387692fac03c8c2b9de6eff559e9a50829cb6a/mochawesome-report/mochawesome.html)
 
 ## Test automation
- ⚫️  [Scouts Panel application - JavaScript + Cypress](https://github.com/izabelagorz/MyCypressProject.git) <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <br>
+ ⚫️  [Scouts Panel application - JavaScript + Cypress](https://github.com/izabelagorz/MyCypressProject.git) <img width="24" height="24" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <br>
  
- ⚫️  [Scouts Panel application - Python + Selenium Webdriver](https://github.com/izabelagorz/test_automation_challenge_portfolio_Izabela.git) <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/> <br> 
+ ⚫️  [Scouts Panel application - Python + Selenium Webdriver](https://github.com/izabelagorz/test_automation_challenge_portfolio_Izabela.git) <img width="24" height="24" src="https://img.icons8.com/color/48/python.png" alt="python"/> <br> 
  
- ⚫️  [Scouts Panel application - Python + Robot framework](https://github.com/izabelagorz/panelscout_robotframework.git) <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/> <br>
+ ⚫️  [Scouts Panel application - Python + Robot framework](https://github.com/izabelagorz/panelscout_robotframework.git) <img width="24" height="24" src="https://img.icons8.com/color/48/python.png" alt="python"/> <br>
  
 ### Experience
 
