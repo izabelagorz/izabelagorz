@@ -2,7 +2,7 @@
 As a software tester with extensive experience in graphic design, I have a unique perspective on design and user experience. <br> Highly motivated and positively oriented towards new challenges, I am continually seeking opportunities for self-development.
 ### Tech Stack
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/confluence.png" alt="confluence"/> 
 
 
 
