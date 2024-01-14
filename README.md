@@ -21,8 +21,7 @@ As a software tester with extensive experience in graphic design, I have a uniqu
 
 Visit my ➔ [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
 
-### Certificates
-
+### Professional development 
 👉*Certified Tester Foundation Level ISTQB ®* No19374/CTFL/2022
 
 👉*Dare IT Challenges* - A project created as part of an introductory course for an automated tester.<br> 
